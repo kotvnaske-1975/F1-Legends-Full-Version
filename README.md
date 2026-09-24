@@ -237,4 +237,4 @@ This repository serves as the official landing page for F1 Legends. The software
 **Get the most recent version of F1 Legends today!**
 
 ---
-**Last updated:** 2026-09-24 15:37:45 UTC
+**Last updated:** 2026-09-24 19:39:37 UTC
